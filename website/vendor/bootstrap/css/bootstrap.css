@@ -483,12 +483,6 @@ mark,
   height: auto;
 }
 
-.img-less-fluid {
-  max-width: 100%;
-  min-width: 1000px;
-  height: auto;
-}
-
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
